@@ -1,4 +1,5 @@
-C $Id: BARRIER.h,v 1.1.1.1 1998/04/22 19:15:30 cnh Exp $
+C $Header: /u/gcmpack/MITgcm/eesupp/inc/BARRIER.h,v 1.3 2001/02/04 14:38:41 cnh Exp $
+C $Name:  $
 C
 C     /==========================================================\
 C     | FBAR.h                                                   |

@@ -4,6 +4,7 @@ $Name:  $
     Notes on tags used in MITgcmUV
     ==============================
 
+o migrate from CVS to Git
 o eesupp:
   - add CPP option to activate some pieces of code for coupling to GEOS AGCM;
   - shift commonly used IO unit (in eeboot.F) for coupling to GEOS AGCM.

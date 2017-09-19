@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/model/src/load_fields_driver.F,v 1.23 2017/09/11 17:29:59 jmc Exp $
-C $Name:  $
-
 #include "PACKAGES_CONFIG.h"
 #include "CPP_OPTIONS.h"
 #ifdef ALLOW_AUTODIFF

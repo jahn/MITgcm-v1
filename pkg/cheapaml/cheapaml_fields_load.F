@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/pkg/cheapaml/cheapaml_fields_load.F,v 1.23 2017/06/15 09:05:52 bderembl Exp $
-C $Name:  $
-
 #include "CHEAPAML_OPTIONS.h"
 
 

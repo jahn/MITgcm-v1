@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/eesupp/src/eeboot.F,v 1.26 2017/09/14 19:47:35 jmc Exp $
-C $Name:  $
-
 #include "CPP_EEOPTIONS.h"
 #include "PACKAGES_CONFIG.h"
 

@@ -1,5 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/verification/tutorial_global_oce_optim/code_ad/FFIELDS.h,v 1.4 2011/04/15 20:15:51 jmc Exp $
-C $Name:  $
 CBOP
 C     !ROUTINE: FFIELDS.h
 C     !INTERFACE:

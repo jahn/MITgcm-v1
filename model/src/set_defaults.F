@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/model/src/set_defaults.F,v 1.182 2017/05/02 18:13:20 jmc Exp $
-C $Name:  $
-
 #include "PACKAGES_CONFIG.h"
 #include "CPP_OPTIONS.h"
 

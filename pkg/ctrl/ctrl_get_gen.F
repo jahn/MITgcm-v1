@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/pkg/ctrl/ctrl_get_gen.F,v 1.37 2017/04/03 23:16:38 ou.wang Exp $
-C $Name:  $
-
 #include "CTRL_OPTIONS.h"
 
 

@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-# $Header: /u/gcmpack/MITgcm/tools/build_options/linux_ia64_cray_ollie,v 1.8 2017/08/08 12:24:53 mlosch Exp $
-# $Name:  $
-
 # Tested on cray CS400 ollie.awi.de 
 # <https://swrepo1.awi.de/plugins/mediawiki/wiki/hpc/index.php/Main_Page>
 # module load craype-broadwell

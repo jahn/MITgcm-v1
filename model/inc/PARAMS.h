@@ -1,5 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/model/inc/PARAMS.h,v 1.287 2017/05/02 18:11:05 jmc Exp $
-C $Name:  $
 C
 
 CBOP

@@ -1,6 +1,3 @@
-C $Header: /u/gcmpack/MITgcm/model/src/config_check.F,v 1.85 2016/11/28 22:57:01 jmc Exp $
-C $Name:  $
-
 #include "PACKAGES_CONFIG.h"
 #include "CPP_OPTIONS.h"
 #ifdef ALLOW_MOM_COMMON
